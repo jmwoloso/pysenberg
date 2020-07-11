@@ -10,7 +10,7 @@ with open("README.md", "r") as fh:
 
 setup(
     # Version should be updated per git push
-    version="0.5.2",
+    version="0.1.0.dev0",
 
     # Install requires should have required packages and updated anytime a
     # new dependency is added
@@ -26,13 +26,13 @@ setup(
         'License :: OSI Approved :: BSD License',
         "Operating System :: OS Independent",
     ],
-    description="An example greeting service.",
+    description="",
 
     # Following should be updated only when installing template per README.md
-    name="greeting-service",
-    author="Ashton Alexander",
-    author_email="aalexander@lighthouseglobal.com",
-    url="https://lhediscovery.visualstudio.com/DefaultCollection/Prism/_git/python_starter_template",
+    name="pysenberg",
+    # author="Ashton Alexander",
+    # author_email="aalexander@lighthouseglobal.com",
+    # url="https://lhediscovery.visualstudio.com/DefaultCollection/Prism/_git/python_starter_template",
 
     # Following shouldn't need to be changed
     license='BSD-2-Clause',
