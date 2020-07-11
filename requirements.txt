@@ -1,0 +1,5 @@
+# For testing and dev
+pytest
+pytest-mock
+pylint
+autopep8
